@@ -2,7 +2,7 @@
 
 This project applies Natural Language Processing (NLP) techniques to analyze sentiment in text data. It includes data cleaning, text preprocessing (tokenization, stopword removal, lemmatization), and sentiment classification, along with visualizations such as sentiment distribution and word clouds to uncover meaningful insights.
 
----
+
 
 ##  Overview
 
@@ -10,7 +10,7 @@ This project analyzes a sentiment dataset containing textual data from different
 
 The project focuses on cleaning and processing textual data, extracting useful information, and identifying overall sentiment patterns within the dataset.
 
----
+
 
 ## About the Dataset
 
@@ -24,7 +24,6 @@ The dataset includes text data along with associated metadata such as:
 
 The data represents opinions shared across different locations and platforms, allowing analysis of sentiment distribution and textual patterns.
 
----
 
 ##  Analysis Approach
 
@@ -40,7 +39,7 @@ The dataset was first cleaned and structured to ensure consistency and usability
 
 This step ensured the dataset was clean and consistent for text analysis.
 
----
+
 
 ###  Text Preprocessing
 
@@ -56,7 +55,7 @@ The following steps were applied:
 
 This helped transform unstructured text into a cleaner and more meaningful format.
 
----
+
 
 ###  Sentiment Analysis
 
@@ -68,7 +67,7 @@ This allowed the dataset to be analyzed in terms of:
 - Distribution of positive, negative, and neutral opinions  
 - Patterns in how people express sentiment  
 
----
+
 
 ###  Visualization
 
@@ -79,7 +78,7 @@ To better understand the dataset, the results were visualized using:
 
 These visualizations make patterns more visible and help interpret the results quickly.
 
----
+
 
 ##  Key Insights
 
@@ -91,7 +90,7 @@ From the dataset, several important insights were observed:
 -  Word clouds reveal dominant themes and commonly discussed topics  
 -  Sentiment distribution helps identify overall public opinion trends  
 
----
+
 
 ##  Tools & Technologies
 
@@ -102,7 +101,7 @@ From the dataset, several important insights were observed:
 - Matplotlib  
 - WordCloud  
 
----
+
 
 ##  Conclusion
 
@@ -116,6 +115,6 @@ It highlights:
 
 The project provides a foundation for more advanced applications such as sentiment prediction, topic modeling, and large-scale social media analysis.
 
----
+
 
 
